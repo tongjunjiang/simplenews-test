@@ -1,0 +1,2 @@
+# simplenews-test
+simplenews
